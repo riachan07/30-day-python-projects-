@@ -6,13 +6,21 @@ Hi! I'm Ria.
 I'm learning Python by building one project every day instead of just watching tutorials.
 
 📅 Progress
-✅ Day 1 - Number Guessing Game
-✅ Day 2 - To-Do List
-✅ Day 3 - Password Generator
-✅ Day 4 - Calculator
-✅ Day 5 - Rock Paper Scissors
-✅ Day 6 - Dice Roller
-✅ Day 7 - Contact Book
+✅ Day 01 - Number Guessing Game
+✅ Day 02 - To-Do List
+✅ Day 03 - Password Generator
+✅ Day 04 - Calculator
+✅ Day 05 - Rock Paper Scissors
+✅ Day 06 - Dice Roller
+✅ Day 07 - Contact Book
+✅ Day 08 - Hangman Game
+✅ Day 09 - Quiz Game
+✅ Day 10 - Expense Tracker
+✅ Day 11 - Countdown Timer
+✅ Day 12 - Stopwatch
+✅ Day 13 - Alarm Clock
+✅ Day 14 - Mini Bank
+
 
 
 🎯 Goal
