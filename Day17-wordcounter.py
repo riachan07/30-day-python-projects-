@@ -1,0 +1,6 @@
+print("====== WORD COUNTER APP ======")
+sentence = input("Enter a sentence: ")
+words = sentence.split()
+word_count = len(words)
+print("Number of words in the sentence: ", word_count)
+print("Number of characters in the sentence: ", len(sentence))
