@@ -20,6 +20,10 @@ I'm learning Python by building one project every day instead of just watching t
 ✅ Day 12 - Stopwatch
 ✅ Day 13 - Alarm Clock
 ✅ Day 14 - Mini Bank
+✅ Day 15 - Notes App
+✅ Day 16 - Student Grade
+✅ Day 17 - Word Counter
+✅ Day 18 - Caesar Cipher
 
 
 
