@@ -16,6 +16,6 @@ for i in range(symbols):
     password.append(random.choice(string.punctuation))
 print("Your password is: ", password)
 
-a=password
-random.shuffle(a)
-print("Your password is: ", ''.join(a))
+
+random.shuffle(password)
+print("Your password is: ", ''.join(password))
